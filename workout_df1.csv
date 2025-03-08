@@ -1,0 +1,411 @@
+,Unnamed: 0,disease,workout
+0,0,Fungal infection,Yoga
+1,1,Fungal infection,Pilates
+2,2,Fungal infection,Swimming
+3,3,Fungal infection,Cycling
+4,4,Fungal infection,Walking
+5,5,Fungal infection,Low-impact aerobics
+6,6,Fungal infection,Tai Chi
+7,7,Fungal infection,Stretching exercises
+8,8,Fungal infection,Bodyweight resistance exercises
+9,9,Fungal infection,Light weightlifting
+10,10,Allergy,Walking
+11,11,Allergy,Swimming
+12,12,Allergy,Cycling
+13,13,Allergy,Yoga
+14,14,Allergy,Pilates
+15,15,Allergy,Tai Chi
+16,16,Allergy,Indoor rowing
+17,17,Allergy,Elliptical training
+18,18,Allergy,Bodyweight exercises 
+19,19,Allergy,Low-impact aerobics
+20,20,GERD,Walking
+21,21,GERD,Cycling
+22,22,GERD,Swimming
+23,23,GERD,Elliptical training
+24,24,GERD,Yoga
+25,25,GERD,Pilates
+26,26,GERD,"Bodyweight exercises (e.g., push-ups, squats, lunges)"
+27,27,GERD,Low-impact aerobics
+28,28,GERD,Tai Chi
+29,29,GERD,Water aerobics
+30,30,Chronic cholestasis,Walking
+31,31,Chronic cholestasis,Swimming
+32,32,Chronic cholestasis,Cycling
+33,33,Chronic cholestasis,Water aerobics
+34,34,Chronic cholestasis,Yoga
+35,35,Chronic cholestasis,Pilates
+36,36,Chronic cholestasis,Tai Chi
+37,37,Chronic cholestasis,Low-impact aerobics
+38,38,Chronic cholestasis,Stationary biking
+39,39,Chronic cholestasis,Resistance band exercises
+40,40,Drug Reaction,Walking
+41,41,Drug Reaction,Yoga
+42,42,Drug Reaction,Swimming
+43,43,Drug Reaction,Tai Chi
+44,44,Drug Reaction,Pilates
+45,45,Drug Reaction,Cycling
+46,46,Drug Reaction,Water aerobics
+47,47,Drug Reaction,Low-impact aerobics
+48,48,Drug Reaction,Stationary biking
+49,49,Drug Reaction,Resistance band exercises
+50,50,Peptic ulcer disease,Walking
+51,51,Peptic ulcer disease,Jogging/Running (low impact)
+52,52,Peptic ulcer disease,Swimming
+53,53,Peptic ulcer disease,Cycling
+54,54,Peptic ulcer disease,Yoga
+55,55,Peptic ulcer disease,Pilates
+56,56,Peptic ulcer disease,Tai Chi
+57,57,Peptic ulcer disease,Low-impact aerobics
+58,58,Peptic ulcer disease,Strength training with light weights
+59,59,Peptic ulcer disease,Stretching exercises
+60,60,AIDS,Walking
+61,61,AIDS,Cycling
+62,62,AIDS,Swimming
+63,63,AIDS,Yoga
+64,64,AIDS,Pilates
+65,65,AIDS,Water aerobics
+66,66,AIDS,Tai Chi
+67,67,AIDS,Low-impact aerobics
+68,68,AIDS,Stationary biking
+69,69,AIDS,Resistance band exercises
+70,70,Diabetes,Walking
+71,71,Diabetes,Jogging/Running
+72,72,Diabetes,Cycling
+73,73,Diabetes,Swimming
+74,74,Diabetes,Strength training with weights
+75,75,Diabetes,Yoga
+76,76,Diabetes,Tai Chi
+77,77,Diabetes,Pilates
+78,78,Diabetes,Aerobics
+79,79,Diabetes,High-intensity interval training (HIIT)
+80,80,Gastroenteritis,Walking
+81,81,Gastroenteritis,Gentle stretching
+82,82,Gastroenteritis,Yoga
+83,83,Gastroenteritis,Tai Chi
+84,84,Gastroenteritis,Pilates
+85,85,Gastroenteritis,Light jogging
+86,86,Gastroenteritis,Swimming (if feeling well hydrated)
+87,87,Gastroenteritis,Stationary biking
+88,88,Gastroenteritis,Low-impact aerobics
+89,89,Gastroenteritis,Resistance band exercises
+90,90,Bronchial Asthma,Walking
+91,91,Bronchial Asthma,Swimming
+92,92,Bronchial Asthma,Cycling
+93,93,Bronchial Asthma,Yoga
+94,94,Bronchial Asthma,Pilates
+95,95,Bronchial Asthma,Tai Chi
+96,96,Bronchial Asthma,Water aerobics
+97,97,Bronchial Asthma,Low-impact aerobics
+98,98,Bronchial Asthma,Stationary biking
+99,99,Bronchial Asthma,Stretching exercises
+100,100,Hypertension,Brisk walking
+101,101,Hypertension,Jogging or running
+102,102,Hypertension,Cycling
+103,103,Hypertension,Swimming
+104,104,Hypertension,Dancing
+105,105,Hypertension,Strength training with weights
+106,106,Hypertension,Yoga
+107,107,Hypertension,Pilates
+108,108,Hypertension,Tai Chi
+109,109,Hypertension,High-intensity interval training (HIIT)
+110,110,Migraine,Gentle walking
+111,111,Migraine,Cycling at a moderate pace
+112,112,Migraine,Swimming
+113,113,Migraine,Yoga
+114,114,Migraine,Pilates
+115,115,Migraine,Tai Chi
+116,116,Migraine,Low-impact aerobics
+117,117,Migraine,Stretching exercises
+118,118,Migraine,Breathing exercises
+119,119,Migraine,Meditation
+120,120,Cervical spondylosis,Neck stretches
+121,121,Cervical spondylosis,Shoulder rolls
+122,122,Cervical spondylosis,Chin tucks
+123,123,Cervical spondylosis,Neck rotations
+124,124,Cervical spondylosis,Arm stretches
+125,125,Cervical spondylosis,Chest stretches
+126,126,Cervical spondylosis,Low-impact cardio exercises like walking
+127,127,Cervical spondylosis,Swimming
+128,128,Cervical spondylosis,Yoga for neck and upper back relief
+129,129,Cervical spondylosis,Pilates focusing on core strength and posture
+130,130,Paralysis (brain hemorrhage),Passive range of motion exercises
+131,131,Paralysis (brain hemorrhage),Seated arm exercises
+132,132,Paralysis (brain hemorrhage),Seated leg lifts
+133,133,Paralysis (brain hemorrhage),Hand cycling
+134,134,Paralysis (brain hemorrhage),Resistance band exercises
+135,135,Paralysis (brain hemorrhage),Modified yoga poses
+136,136,Paralysis (brain hemorrhage),Aqua therapy exercises
+137,137,Paralysis (brain hemorrhage),Wheelchair aerobics
+138,138,Paralysis (brain hemorrhage),Tai Chi for balance and coordination
+139,139,Paralysis (brain hemorrhage),Chair-based strength training
+140,140,Jaundice,Walking
+141,141,Jaundice,Gentle stretching exercises
+142,142,Jaundice,Breathing exercises
+143,143,Jaundice,Tai Chi
+144,144,Jaundice,Yoga (gentle poses)
+145,145,Jaundice,Low-impact aerobics
+146,146,Jaundice,Swimming
+147,147,Jaundice,Light jogging
+148,148,Jaundice,Stationary biking
+149,149,Jaundice,Pilates (modified exercises)
+150,150,Malaria,Walking 
+151,151,Malaria,Stretching Exercises
+152,152,Malaria,Deep breathing exercise
+153,153,Malaria,Restorative yoga poses
+154,154,Malaria,Light swimming
+155,155,Malaria,Gentle cycling on a stationary bike
+156,156,Malaria,Tai Chi for relaxation and mobility
+157,157,Malaria,Chair-based exercises
+158,158,Malaria,Resistance band exercises (if energy levels permit)
+159,159,Malaria,Short bouts of low-intensity aerobic exercises 
+160,160,Chicken pox,Walking
+161,161,Chicken pox,Stretching exercises
+162,162,Chicken pox,Light yoga
+163,163,Chicken pox,Breathing exercises
+164,164,Chicken pox,Low-intensity resistance training
+165,165,Chicken pox,Tai Chi
+166,166,Chicken pox,Pilates
+167,167,Chicken pox,Swimming (if skin lesions are healed)
+168,168,Chicken pox,Stationary biking
+169,169,Chicken pox,Gentle dancing
+170,170,Dengue,Walking (if permitted by doctor)
+171,171,Dengue,Gentle stretching
+172,172,Dengue,Deep breathing exercises
+173,173,Dengue,Relaxation techniques
+174,174,Dengue,Tai Chi
+175,175,Dengue,Light yoga
+176,176,Dengue,Seated exercises
+177,177,Dengue,Water aerobics (if permitted by doctor)
+178,178,Dengue,Low-intensity resistance band exercises
+179,179,Dengue,"Short, slow-paced walks in fresh air (if permitted by doctor)"
+180,180,Typhoid,Gentle walking
+181,181,Typhoid,Stretching exercises
+182,182,Typhoid,Breathing exercises
+183,183,Typhoid,Tai Chi
+184,184,Typhoid,Yoga (gentle poses)
+185,185,Typhoid,Low-impact aerobics (if permitted by doctor)
+186,186,Typhoid,Seated exercises
+187,187,Typhoid,Resistance band exercises (light intensity)
+188,188,Typhoid,Swimming (if permitted by doctor)
+189,189,Typhoid,Stationary biking (if permitted by doctor)
+190,190,hepatitis A,Walking
+191,191,hepatitis A,Light jogging
+192,192,hepatitis A,Cycling
+193,193,hepatitis A,Yoga
+194,194,hepatitis A,Tai Chi
+195,195,hepatitis A,Swimming
+196,196,hepatitis A,Water aerobics
+197,197,hepatitis A,Stretching exercises
+198,198,hepatitis A,Low-impact aerobics
+199,199,hepatitis A,Stationary biking
+200,200,Hepatitis B,Walking
+201,201,Hepatitis B,Swimming
+202,202,Hepatitis B,Cycling
+203,203,Hepatitis B,Yoga
+204,204,Hepatitis B,Tai Chi
+205,205,Hepatitis B,Water aerobics
+206,206,Hepatitis B,Pilates
+207,207,Hepatitis B,Low-impact aerobics
+208,208,Hepatitis B,Stretching exercises
+209,209,Hepatitis B,Walking
+210,210,Hepatitis C,Cycling
+211,211,Hepatitis C,Swimming
+212,212,Hepatitis C,Yoga
+213,213,Hepatitis C,Tai Chi
+214,214,Hepatitis C,Water aerobics
+215,215,Hepatitis C,Pilates
+216,216,Hepatitis C,Low-impact aerobics
+217,217,Hepatitis C,Stationary biking
+218,218,Hepatitis C,Resistance band exercises
+219,219,Hepatitis C,Walking
+220,220,Hepatitis D,Walking
+221,221,Hepatitis D,Cycling
+222,222,Hepatitis D,Swimming
+223,223,Hepatitis D,Yoga
+224,224,Hepatitis D,Tai Chi
+225,225,Hepatitis D,Water aerobics
+226,226,Hepatitis D,Pilates
+227,227,Hepatitis D,Low-impact aerobics
+228,228,Hepatitis D,Stationary biking
+229,229,Hepatitis D,Resistance band exercises
+230,230,Hepatitis E,Walking
+231,231,Hepatitis E,Cycling
+232,232,Hepatitis E,Swimming
+233,233,Hepatitis E,Yoga
+234,234,Hepatitis E,Tai Chi
+235,235,Hepatitis E,Water aerobics
+236,236,Hepatitis E,Pilates
+237,237,Hepatitis E,Low-impact aerobics
+238,238,Hepatitis E,Stationary biking
+239,239,Hepatitis E,Stretching exercises
+240,240,Alcoholic hepatitis,Walking
+241,241,Alcoholic hepatitis,Cycling
+242,242,Alcoholic hepatitis,Swimming
+243,243,Alcoholic hepatitis,Yoga
+244,244,Alcoholic hepatitis,Tai Chi
+245,245,Alcoholic hepatitis,Water aerobics
+246,246,Alcoholic hepatitis,Pilates
+247,247,Alcoholic hepatitis,Low-impact aerobics
+248,248,Alcoholic hepatitis,Stationary biking
+249,249,Alcoholic hepatitis,Resistance band exercises
+250,250,Tuberculosis,Walking
+251,251,Tuberculosis,Yoga
+252,252,Tuberculosis,Tai Chi
+253,253,Tuberculosis,Stretching exercises
+254,254,Tuberculosis,Pilates
+255,255,Tuberculosis,Light aerobics
+256,256,Tuberculosis,Stationary biking
+257,257,Tuberculosis,Swimming
+258,258,Tuberculosis,Low-impact exercises
+259,259,Tuberculosis,Resistance band exercises
+260,260,Common Cold,Walking
+261,261,Common Cold,Stretching exercises
+262,262,Common Cold,Yoga
+263,263,Common Cold,Light jogging
+264,264,Common Cold,Tai Chi
+265,265,Common Cold,Cycling
+266,266,Common Cold,Swimming
+267,267,Common Cold,Pilates
+268,268,Common Cold,Low-intensity aerobics
+269,269,Common Cold,Resistance band exercises
+270,270,Pneumonia,Walking
+271,271,Pneumonia,Gentle stretching exercises
+272,272,Pneumonia,Tai Chi
+273,273,Pneumonia,Light yoga
+274,274,Pneumonia,Pilates
+275,275,Pneumonia,Stationary biking
+276,276,Pneumonia,Swimming (gentle laps)
+277,277,Pneumonia,Water aerobics
+278,278,Pneumonia,Low-impact exercises
+279,279,Pneumonia,Deep breathing exercises
+280,280,Dimorphic hemmorhoids(piles),Walking
+281,281,Dimorphic hemmorhoids(piles),Swimming
+282,282,Dimorphic hemmorhoids(piles),Cycling
+283,283,Dimorphic hemmorhoids(piles),Yoga
+284,284,Dimorphic hemmorhoids(piles),Pilates
+285,285,Dimorphic hemmorhoids(piles),Bodyweight squats
+286,286,Dimorphic hemmorhoids(piles),Stationary biking
+287,287,Dimorphic hemmorhoids(piles),Elliptical training
+288,288,Dimorphic hemmorhoids(piles),Low-impact aerobics
+289,289,Dimorphic hemmorhoids(piles),Tai Chi
+290,290,Heart attack,Walking
+291,291,Heart attack,Swimming
+292,292,Heart attack,Cycling
+293,293,Heart attack,Yoga
+294,294,Heart attack,Pilates
+295,295,Heart attack,Low-impact aerobics
+296,296,Heart attack,Water aerobics
+297,297,Heart attack,Stationary biking
+298,298,Heart attack,Elliptical training
+299,299,Heart attack,Tai Chi
+300,300,Varicose veins,Walking
+301,301,Varicose veins,Swimming
+302,302,Varicose veins,Cycling
+303,303,Varicose veins,Yoga
+304,304,Varicose veins,Pilates
+305,305,Varicose veins,Low-impact aerobics
+306,306,Varicose veins,Water aerobics
+307,307,Varicose veins,Stationary biking
+308,308,Varicose veins,Elliptical training
+309,309,Varicose veins,Leg lifts
+310,310,Hypothyroidism,Walking
+311,311,Hypothyroidism,Swimming
+312,312,Hypothyroidism,Cycling
+313,313,Hypothyroidism,Yoga
+314,314,Hypothyroidism,Pilates
+315,315,Hypothyroidism,Tai Chi
+316,316,Hypothyroidism,Low-impact aerobics
+317,317,Hypothyroidism,Strength training with light weights
+318,318,Hypothyroidism,Water aerobics
+319,319,Hypothyroidism,Stationary biking
+320,320,Hyperthyroidism,Walking
+321,321,Hyperthyroidism,Cycling
+322,322,Hyperthyroidism,Swimming
+323,323,Hyperthyroidism,Yoga
+324,324,Hyperthyroidism,Pilates
+325,325,Hyperthyroidism,Tai Chi
+326,326,Hyperthyroidism,Low-impact aerobics
+327,327,Hyperthyroidism,Strength training with light weights
+328,328,Hyperthyroidism,Stationary biking
+329,329,Hyperthyroidism,Water aerobics
+330,330,Hypoglycemia,Walking
+331,331,Hypoglycemia,Cycling
+332,332,Hypoglycemia,Swimming
+333,333,Hypoglycemia,Jogging
+334,334,Hypoglycemia,Dancing
+335,335,Hypoglycemia,Aerobic exercises
+336,336,Hypoglycemia,Resistance training
+337,337,Hypoglycemia,Pilates
+338,338,Hypoglycemia,Tai Chi
+339,339,Hypoglycemia,Yoga
+340,340,Osteoarthristis,Walking
+341,341,Osteoarthristis,Swimming
+342,342,Osteoarthristis,Cycling
+343,343,Osteoarthristis,Water aerobics
+344,344,Osteoarthristis,Tai Chi
+345,345,Osteoarthristis,Yoga
+346,346,Osteoarthristis,Pilates
+347,347,Osteoarthristis,Low-impact aerobics
+348,348,Osteoarthristis,Strength training with light weights
+349,349,Osteoarthristis,Stationary biking
+350,350,Arthritis,Walking
+351,351,Arthritis,Swimming
+352,352,Arthritis,Cycling
+353,353,Arthritis,Water aerobics
+354,354,Arthritis,Tai Chi
+355,355,Arthritis,Yoga
+356,356,Arthritis,Pilates
+357,357,Arthritis,Low-impact aerobics
+358,358,Arthritis,Strength training with light weights
+359,359,Arthritis,Stationary biking
+360,360,(vertigo) Paroymsal  Positional Vertigo,Walking
+361,361,(vertigo) Paroymsal  Positional Vertigo,Yoga (specific poses)
+362,362,(vertigo) Paroymsal  Positional Vertigo,Tai Chi
+363,363,(vertigo) Paroymsal  Positional Vertigo,Balance exercises
+364,364,(vertigo) Paroymsal  Positional Vertigo,Head movements (Epley maneuver)
+365,365,(vertigo) Paroymsal  Positional Vertigo,Brandt-Daroff exercises
+366,366,(vertigo) Paroymsal  Positional Vertigo,Gaze stabilization exercises
+367,367,(vertigo) Paroymsal  Positional Vertigo,Modified Cawthorne-Cooksey exercises
+368,368,(vertigo) Paroymsal  Positional Vertigo,Vestibular rehabilitation exercises
+369,369,(vertigo) Paroymsal  Positional Vertigo,Swimming
+370,370,Acne,Walking
+371,371,Acne,Jogging
+372,372,Acne,Yoga
+373,373,Acne,Pilates
+374,374,Acne,Cycling
+375,375,Acne,Swimming
+376,376,Acne,Aerobic exercises
+377,377,Acne,Strength training
+378,378,Acne,Dance workouts
+379,379,Acne,HIIT (High-Intensity Interval Training)
+380,380,Urinary tract infection,Walking
+381,381,Urinary tract infection,Swimming
+382,382,Urinary tract infection,Cycling
+383,383,Urinary tract infection,Yoga
+384,384,Urinary tract infection,Pilates
+385,385,Urinary tract infection,Tai Chi
+386,386,Urinary tract infection,Low-impact aerobics
+387,387,Urinary tract infection,Strength training with light weights
+388,388,Urinary tract infection,Water aerobics
+389,389,Urinary tract infection,Stationary biking
+390,390,Psoriasis,Walking
+391,391,Psoriasis,Yoga
+392,392,Psoriasis,Pilates
+393,393,Psoriasis,Cycling
+394,394,Psoriasis,Swimming
+395,395,Psoriasis,Tai Chi
+396,396,Psoriasis,Low-impact aerobics
+397,397,Psoriasis,Strength training with light weights
+398,398,Psoriasis,Water aerobics
+399,399,Psoriasis,Stationary biking
+400,400,Impetigo,Walking
+401,401,Impetigo,Jogging
+402,402,Impetigo,Cycling
+403,403,Impetigo,Swimming
+404,404,Impetigo,Yoga
+405,405,Impetigo,Pilates
+406,406,Impetigo,Low-impact aerobics
+407,407,Impetigo,Strength training with light weights
+408,408,Impetigo,Stationary biking
+409,409,Impetigo,Water aerobics
